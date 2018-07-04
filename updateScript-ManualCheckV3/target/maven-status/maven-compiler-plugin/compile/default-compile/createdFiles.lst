@@ -1,0 +1,9 @@
+Script\VersionTemplate.class
+Script\ReaderAndSaver.class
+Script\Namer.class
+Script\VersionMaster.class
+Script\VersionOpenSSL.class
+Script\VersionJRE.class
+Script\VersionTomcat7.class
+Script\ScriptRunner.class
+Script\VersionPostgreSQL.class
